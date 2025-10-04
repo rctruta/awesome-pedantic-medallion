@@ -1,4 +1,4 @@
-# Awesome Pedantic Medallion88
+# Awesome Pedantic Medallion
 A community-curated collection of playbooks for building shared understanding. This is the official repository for the **[Pedantic Medallion framework](https://open.substack.com/pub/ramonactruta/p/the-knowledge-architects-playbook?r=1wgaz6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**.
 
 ### [BRONZE] What Is This? (The Analogy)
